@@ -4,3 +4,4 @@
 | $\phi$     | Phi     |
 | $\psi$     | Psi     |
 | $\delta$   | Delta   |
+| $\omega$   | Omega   |
